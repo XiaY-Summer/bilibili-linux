@@ -1,6 +1,6 @@
 安装:
 ````
-wget http://www.xia040831.xyz:8888/down/z2ihvXZc8CGp
+curl -o bilibili.zip http://www.xia040831.xyz:8888/down/z2ihvXZc8CGp
 unzip bilibili.zip
 cd bilibili-linux
 chmod +x install.sh uninstall.sh
