@@ -1,6 +1,6 @@
 安装:
 ````
-git clone https://github.com/XiaY-Summer/bilibili-linux.git
+wget http://www.xia040831.xyz:8888/down/z2ihvXZc8CGp
 cd bilibili-linux
 chmod +x install.sh uninstall.sh
 sudo ./install.sh
