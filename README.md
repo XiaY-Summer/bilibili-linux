@@ -2,7 +2,7 @@
 ````
 git clone https://github.com/XiaY-Summer/bilibili-linux.git
 cd bilibili-linux
-sudo chmod +x *
+chmod +x install.sh uninstall.sh
 sudo ./install.sh
 ````
 卸载:
