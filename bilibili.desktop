@@ -5,4 +5,4 @@ Type=Application
 Terminal=false
 Exec=/opt/bilibili-linux/bin/bilibili
 Name=哔哩哔哩Linux客户端
-Icon=/opt/bilibili-linux/bin/bilibili.jpeg
+Icon=/opt/bilibili-linux/bin/bilibili.svg
