@@ -7,5 +7,5 @@ sudo ./install.sh
 ````
 卸载:
 ````
-sudo ./uninstall.sh
+./uninstall.sh
 ````
