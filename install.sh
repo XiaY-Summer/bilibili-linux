@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -o bilibili.tar.gz http://106.110.184.217:8888/down/WNkVWUZFmY4J.gz
+curl -o bilibili.tar.gz http://117.92.255.176:8888/down/WNkVWUZFmY4J.gz
 tar xf bilibili.tar.gz
 
 sudo cp -r bilibili-linux /opt
